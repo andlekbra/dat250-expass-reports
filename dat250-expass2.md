@@ -1,5 +1,7 @@
 # DAT250: Software Technology Experiment Assignment 2
 
+[Code here](https://github.com/andlekbra/dat250-expass2-jpa-examples)
+
 ## Experiment 1: Application using JPA
 
 ### Todo example
