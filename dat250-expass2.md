@@ -16,7 +16,7 @@ source project.
 - Removed setters and getters from Todo class.
 - Confirmed that code is still working
 
-![ToDo table](screenshots-expass2\DatabaseToDo.JPG)
+![ToDo table](./screenshots-expass2\DatabaseToDo.JPG)
 
 ### Family example
 - Followed tutorial
