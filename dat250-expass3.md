@@ -10,6 +10,9 @@ Code is [here](https://github.com/andlekbra/dat250-expass3-mongodb)
 - I also ran my development environment in a vs code devcontainer with mongodb shell installed. The docker files are available in the repo for further details.
 - Since the links are pointing to a tutorial for version 5.0. To avoid inconsistencies I used the latest image of mongodb and not version 4.4 as specified in the assignment.
 
+## Problems
+- I had some initial problems with defining the devcontainer and dockerfiles. When the docker files were correct, the development experience was very smooth even when using different computers. I used VS Code and Docker desktop on both.
+
 ## Experiment 1
 
 ### Insert
