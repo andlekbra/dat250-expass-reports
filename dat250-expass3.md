@@ -24,3 +24,10 @@ Code is [here](https://github.com/andlekbra/dat250-expass3-mongodb)
 ### Delete
 ![Delete](screenshots-expass3/DeleteOne.JPG)
 
+## Experiment 2
+
+The map reduce code and results can be seen in the repository.
+My map reduce sums the income for each product type
+
+![mapReduce](screenshots-expass3/MapReduce.JPG)
+
