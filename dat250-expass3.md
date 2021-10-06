@@ -30,7 +30,9 @@ Code is [here](https://github.com/andlekbra/dat250-expass3-mongodb)
 ## Experiment 2
 
 The map reduce code and results can be seen in the repository.
-My map reduce sums the income for each product type
+- My map reduce sums the income for each product type, which is useful if you want to see what product generates the highest revenue.
+- The result is an json array of key value pairs, with the product name as key and income for the product as value.
+- Comment to the assignment. MapReduce is deprecated in monogodb. I would prefer that Aggregation pipeline was the mandatory part of the assignment
 
 ![mapReduce](screenshots-expass3/MapReduce.JPG)
 
