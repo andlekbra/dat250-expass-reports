@@ -2,9 +2,13 @@
 
 ## Code
 
-- Code is [here]()
+- Code is [here](https://github.com/andlekbra/dat250-expass5-spring-boot)
 
 ## Set up
-- Used spring initalizer extension in vs code
-- used java 11 devcontainer in vs code
+- Used spring initalizer extension in vs code to install the spring boot dependencies
+- Development was done in Vs Code Java 11 devcontainer
+
+
+## Problems
+- No problems
 
